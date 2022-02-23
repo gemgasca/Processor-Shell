@@ -1,8 +1,4 @@
 
-# Unix Shell
-
-In this project, I built a simple Unix shell.
-
 ## Overview
 
 I implemented a command line interpreter (CLI) or, a shell. When you type in a command (in response to its prompt), the shell
